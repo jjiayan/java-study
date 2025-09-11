@@ -30,7 +30,7 @@ class Student{
 	private String no;
 	private List<String[]> student = new ArrayList<>();
 	
-	// 생성자 
+	// 생성자  test 
 	public Student(String name, String no){
 		super();
 		this.name = name;
